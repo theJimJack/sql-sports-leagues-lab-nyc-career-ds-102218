@@ -1,0 +1,5 @@
+{
+  "test/test_queries.py::TestSQLQueries::test_select_all_games_date_and_info_teams_name_and_score_for_teams_in_nhl": true,
+  "test/test_queries.py::TestSQLQueries::test_select_date_info_and_total_points_for_highest_scoring_nba_game": true,
+  "test/test_queries.py::TestSQLQueries::test_select_name_of_player_with_shortest_name": true
+}

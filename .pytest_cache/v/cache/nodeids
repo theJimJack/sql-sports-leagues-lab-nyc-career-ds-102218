@@ -1,0 +1,19 @@
+[
+  "test/test_create.py::TestCreateTables::test_games_table",
+  "test/test_create.py::TestCreateTables::test_leagues_table",
+  "test/test_create.py::TestCreateTables::test_players_table",
+  "test/test_create.py::TestCreateTables::test_team_games_table",
+  "test/test_create.py::TestCreateTables::test_teams_table",
+  "test/test_insert.py::TestInsertData::test_games_insert",
+  "test/test_insert.py::TestInsertData::test_leagues_insert",
+  "test/test_insert.py::TestInsertData::test_players_insert",
+  "test/test_insert.py::TestInsertData::test_team_games_insert",
+  "test/test_insert.py::TestInsertData::test_teams_insert",
+  "test/test_queries.py::TestSQLQueries::test_select_all_games_date_and_info_teams_name_and_score_for_teams_in_nhl",
+  "test/test_queries.py::TestSQLQueries::test_select_all_new_york_players_names",
+  "test/test_queries.py::TestSQLQueries::test_select_date_info_and_total_points_for_highest_scoring_nba_game",
+  "test/test_queries.py::TestSQLQueries::test_select_name_of_player_with_shortest_name",
+  "test/test_queries.py::TestSQLQueries::test_select_team_name_and_total_goals_scored_for_new_york_rangers",
+  "test/test_update.py::TestUpdateTables::test_chad_ochocinco",
+  "test/test_update.py::TestUpdateTables::test_metta_world_peace"
+]
